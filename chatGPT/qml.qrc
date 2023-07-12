@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Win/ChatCheck.qml</file>
+        <file>Win/Chat.qml</file>
+        <file>Win/AddPage.qml</file>
+        <file>Com/Input.qml</file>
+        <file>Com/MComboBox.qml</file>
+        <file>Win/ChatWin.qml</file>
+        <file>Win/ChatTool.qml</file>
+        <file>Win/ChatInput.qml</file>
+        <file>Com/TextButton.qml</file>
+        <file>Com/MToolTip.qml</file>
+        <file>Win/ApiKey.qml</file>
+        <file>Com/MTextField.qml</file>
+        <file>Win/SettingPopup.qml</file>
+        <file>Com/MSlider.qml</file>
+        <file>Win/ChatList.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="logo">Resources/logo.svg</file>
+        <file alias="logo2">Resources/logo2.svg</file>
+        <file alias="my">Resources/my.svg</file>
+        <file alias="delete">Resources/delete.png</file>
+        <file alias="shuaxin">Resources/shuaxin.png</file>
+        <file alias="loading">Resources/loading.svg</file>
+    </qresource>
+</RCC>
